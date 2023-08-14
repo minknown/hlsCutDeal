@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javalearn:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javalearn_jar</output-path>
+    <root id="archive" name="javalearn.jar">
+      <element id="module-output" name="javasln" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javayy/javax.mail-1.6.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
